@@ -1,4 +1,5 @@
 package interfac.ex1;
+import java.util.Objects;
 
 interface Veiculo {
     void iniciar();
