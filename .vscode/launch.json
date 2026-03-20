@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex3_super",
+            "request": "launch",
+            "mainClass": "mais_exercicios.Ex3_super",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
             "name": "Ex2_super",
             "request": "launch",
             "mainClass": "mais_exercicios.Ex2_super",
