@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ex2_super",
+            "request": "launch",
+            "mainClass": "mais_exercicios.Ex2_super",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "Ex_super",
+            "request": "launch",
+            "mainClass": "mais_exercicios.Ex_super",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "Heranca",
+            "request": "launch",
+            "mainClass": "Heranca",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "heranca",
+            "request": "launch",
+            "mainClass": "heranca",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "AplicacaoExercico",
+            "request": "launch",
+            "mainClass": "AplicacaoExercico",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "TesteSalaDeAula",
+            "request": "launch",
+            "mainClass": "exercicio_sala.TesteSalaDeAula",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "TestContador",
+            "request": "launch",
+            "mainClass": "TestContador",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "TestStatic",
+            "request": "launch",
+            "mainClass": "TestStatic",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio_Encapsulamento2",
+            "request": "launch",
+            "mainClass": "pacote_exemplo.Exercicio_Encapsulamento2",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "FolhaDePagamento",
+            "request": "launch",
+            "mainClass": "pacote_exemplo.FolhaDePagamento",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "importacao",
+            "request": "launch",
+            "mainClass": "pacote_exemplo.importacao",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "Funcionario",
+            "request": "launch",
+            "mainClass": "pacote_exemplo.Funcionario",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "ex1_poo",
+            "request": "launch",
+            "mainClass": "ex1_poo",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
