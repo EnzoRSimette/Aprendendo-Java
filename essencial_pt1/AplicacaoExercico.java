@@ -1,3 +1,4 @@
+package essencial_pt1;
 class ExercicioLivro {
     public String titulo = "Desconhecido";
     private String autor = "Desconhecido";

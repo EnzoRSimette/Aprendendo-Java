@@ -1,3 +1,4 @@
+package essencial_pt1;
 public class Bolo {
     //& Objetos são como bolos recém assados, sem recheio, cobertura, nada
     //* A classe é como uma receita para criar um bolo,

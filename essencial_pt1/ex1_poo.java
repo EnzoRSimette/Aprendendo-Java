@@ -1,3 +1,4 @@
+package essencial_pt1;
 public class ex1_poo {
     String nome = "Esse funcionário não existe";
     String cargo = "Esse funcionário não existe ou cargo indefinido";

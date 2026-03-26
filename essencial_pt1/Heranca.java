@@ -1,3 +1,4 @@
+package essencial_pt1;
 public class Heranca {
     /*
      * extends para criar uma subclasse

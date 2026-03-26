@@ -1,3 +1,4 @@
+package essencial_pt1;
 public class TestStatic {
     public static void main(String[] args) {
         //* Por conta de as funções serem do tipo STATIC, podemos chamar elas pela classe e não necessariamente pelo objeto

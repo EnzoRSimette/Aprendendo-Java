@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Calculadora2",
+            "request": "launch",
+            "mainClass": "expressoesLambda.Calculadora2",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "expressoesLambda.Calculadora",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "Aula1",
+            "request": "launch",
+            "mainClass": "expressoesLambda.Aula1",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "Estoque",
+            "request": "launch",
+            "mainClass": "collections.Estoque",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "MapAula",
+            "request": "launch",
+            "mainClass": "collections.MapAula",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "ListAula",
+            "request": "launch",
+            "mainClass": "collections.ListAula",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "Ex1",
+            "request": "launch",
+            "mainClass": "collections.Ex1",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
+            "name": "SetAula",
+            "request": "launch",
+            "mainClass": "collections.SetAula",
+            "projectName": "Aprendendo Java_4872d55b"
+        },
+        {
+            "type": "java",
             "name": "Ex3_super",
             "request": "launch",
             "mainClass": "mais_exercicios.Ex3_super",

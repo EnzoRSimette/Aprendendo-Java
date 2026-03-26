@@ -1,3 +1,4 @@
+package essencial_pt1;
 public class Arrays {
     //* Para declarar um array, você coloca -> tipo[] nome;
     public static void main(String[] args) {

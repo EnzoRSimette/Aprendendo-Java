@@ -1,3 +1,4 @@
+package essencial_pt1;
 class MembrosStaticos {
     //~ =====================
     //~ = Membros Estáticos =
